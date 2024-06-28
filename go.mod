@@ -1,6 +1,6 @@
 module github.com/matipan/dagger-import
 
-go 1.22.4
+go 1.22
 
 require (
 	github.com/dagger/dagger/engine/distconsts v0.0.0-20240628152425-450240400e9c
